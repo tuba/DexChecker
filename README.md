@@ -1,0 +1,4 @@
+DexChecker
+==========
+
+Dex patching detector
